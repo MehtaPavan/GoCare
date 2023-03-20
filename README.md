@@ -9,7 +9,7 @@ Next is Emergency call services which provides almost all important Emergency co
 
 Next is Nearby Hospital which provides the list & direction of all nearby Hospitals available around user's current location using google_map flutter dependency.
 
-Last is Blog Section which provides different blogs sites for first aid services
+Last is Blog Section which provides different blogs sites for first aid services.
 
 
 
