@@ -96,7 +96,7 @@ Following tree depicts the folder structure for the `lib` folder.
 
 
 
-## Badges
+
 
 
 
