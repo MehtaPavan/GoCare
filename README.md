@@ -18,7 +18,6 @@ Last is Blog Section which provides different blogs sites for first aid services
 
 
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Color Reference
@@ -41,3 +40,4 @@ Last is Blog Section which provides different blogs sites for first aid services
 
 Contributions are always welcome!
 
+[GoCare Demo Video Link](https://drive.google.com/file/d/1RAcaCrdQoq0-g2Ett3olNsbrTp9Ngfo3/view)
