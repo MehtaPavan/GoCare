@@ -22,7 +22,7 @@ archive), the Flutter tool will download the Dart SDK from Google servers
 immediately when first run, as it is used to execute the `flutter` tool itself.
 This will also occur when Flutter is upgraded (e.g. by running the `flutter
 upgrade` command).
-```
+
 ## How to Use 
 
 **Step 1:**
@@ -39,7 +39,7 @@ Go to project root and execute the following command in console to get the requi
 
 ```
 flutter pub get 
-
+```
 
 
 
