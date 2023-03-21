@@ -61,23 +61,35 @@ Last is Blog Section which provides different blogs sites for first aid services
 Following tree depicts the folder structure for the `lib` folder.
  ```
 ├── lib
+│   ├── config
+|   |   ├── palette.dart  
+|   |   ├── style.dart 
 │   ├── data
-|   |   ├── widget_category.dart     # To display the components card at home screen
+|   |   ├── data.dart     
 │   ├── screens
-|   |   ├── main_app_widgets        
-|   |   |   ├── components_card.dart
-|   |   ├── about.dart
-|   |   ├── bottom_navigation.dart
-|   |   ├── display.dart
-|   |   ├── home.dart
-|   |   ├── request.dart
-|   |   ├── search.dart
-|   |   ├── splash_screen.dart
-│   ├── ui_components               # Add/update the ui components here
-|   |   ├── alerts
-|   |   ├── avatars
-|   |   ├── bottom_nav
+|   |   ├── app_bar.dart
+|   |   ├── asthama_det.dart
+|   |   ├── bleed_det.dart
+|   |   ├── bottom_nav_screen.dart
+|   |   ├── export.dart
+|   |   ├── eye_det.dart
+|   |   ├── head_det.dart
+|   |   ├── heart_det.dart
+|   |   ├── hypo_det.dart
+|   |   ├── item_image.dart
+|   |   ├── m.dart
+|   |   ├── map.dart
+|   |   ├── map_utils.dart
+|   |   ├── screen.dart
+|   |   ├── skin_det.dart
+|   |   ├── stats_screen.dart
+|   |   ├── stings.dart
+│   ├── widgets               # Add/update the ui components here
+|   |   ├── custom_app_bar.dart
+|   |   ├── emgcall.dart
+|   |   ├── widgets.dart
 |   |   ├── ...
+│   ├── call.dart
 │   ├── main.dart
 ```
 
