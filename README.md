@@ -84,7 +84,7 @@ Following tree depicts the folder structure for the `lib` folder.
 |   |   ├── skin_det.dart
 |   |   ├── stats_screen.dart
 |   |   ├── stings.dart
-│   ├── widgets               # Add/update the ui components here
+│   ├── widgets             
 |   |   ├── custom_app_bar.dart
 |   |   ├── emgcall.dart
 |   |   ├── widgets.dart
