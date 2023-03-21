@@ -149,8 +149,20 @@ Contributions are always welcome!
         </a>
     </td>
 
- 
-    
+   <td align="center">
+        <a href="https://github.com/PARTHVATALIYA">
+            <img src="https://avatars.githubusercontent.com/u/88878890?v=4" width="100;" alt="Parth Vataliya"/>
+            <br />
+            <sub><b>Parth Vataliya</b></sub>
+        </a>
+    </td>
+       <td align="center">
+        <a href="https://github.com/shalintilva">
+            <img src="https://avatars.githubusercontent.com/u/110724892?v=4" width="100;" alt="Shalin Tilva"/>
+            <br />
+            <sub><b>Shalin Tilva</b></sub>
+        </a>
+    </td>
    
   </tr>
 </table>
