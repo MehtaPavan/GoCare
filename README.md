@@ -123,3 +123,46 @@ Following tree depicts the folder structure for the `lib` folder.
 Contributions are always welcome!
 
 [GoCare Demo Video Link](https://drive.google.com/file/d/1RAcaCrdQoq0-g2Ett3olNsbrTp9Ngfo3/view)
+
+<h2 align='center'> Project maintainers </h2>
+<table align='center'>
+<tr>
+    <td align="center">
+        <a href="https://github.com/pritesh2745">
+         
+            <img src="https://avatars.githubusercontent.com/u/88341178?v=4" width="100;" alt="Pritesh Vandra"/>
+            <br />
+            <sub><b>Pritesh Vandra</b></sub>
+        </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/Bhavikk01">
+            <img src="https://avatars.githubusercontent.com/u/91150440?v=4" width="100;" alt="Debajyoti Saha"/>
+            <br />
+            <sub><b>Bhavik Kothari</b></sub>
+        </a>
+    </td>
+  <td align="center">
+        <a href="https://github.com/roshaen">
+            <img src="https://avatars.githubusercontent.com/u/58213083?v=4" width="100;" alt="Roshan Kumar"/>
+            <br />
+            <sub><b>Roshan Kumar</b></sub>
+        </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/Bhavikk01">
+            <img src="https://avatars.githubusercontent.com/u/91150440?v=4" width="100;" alt="Debajyoti Saha"/>
+            <br />
+            <sub><b>Bhavik Kothari</b></sub>
+        </a>
+    </td>
+  <td align="center">
+        <a href="https://github.com/roshaen">
+            <img src="https://avatars.githubusercontent.com/u/58213083?v=4" width="100;" alt="Roshan Kumar"/>
+            <br />
+            <sub><b>Roshan Kumar</b></sub>
+        </a>
+    </td>
+   
+  </tr>
+</table>
