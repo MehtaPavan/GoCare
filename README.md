@@ -39,7 +39,7 @@ Go to project root and execute the following command in console to get the requi
 
 ```
 flutter pub get 
-```
+
 
 
 
@@ -80,7 +80,7 @@ Following tree depicts the folder structure for the `lib` folder.
 |   |   ├── ...
 │   ├── main.dart
 ```
----
+
 
 
 
