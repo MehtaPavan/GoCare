@@ -127,6 +127,13 @@ Contributions are always welcome!
 <h2 align='center'> Project maintainers </h2>
 <table align='center'>
 <tr>
+  <td align="center">
+        <a href="https://github.com/MehtaPavan">
+            <img src="https://avatars.githubusercontent.com/u/96176462?v=4" width="100;" alt="Pavan Mehta"/>
+            <br />
+            <sub><b>Pavan Mehta</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/pritesh2745">
             <img src="https://avatars.githubusercontent.com/u/88341178?v=4" width="100;" alt="Pritesh Vandra"/>
@@ -134,13 +141,14 @@ Contributions are always welcome!
             <sub><b>Pritesh Vandra</b></sub>
         </a>
     </td>
- <td align="center">
-        <a href="https://github.com/MehtaPavan">
-            <img src="https://avatars.githubusercontent.com/u/96176462?v=4" width="100;" alt="Pavan Mehta"/>
+  <td align="center">
+        <a href="https://github.com/sheel1710">
+            <img src="https://avatars.githubusercontent.com/u/70745391?v=4" width="100;" alt="Sheel Sachania"/>
             <br />
-            <sub><b>Pavan Mehta</b></sub>
+            <sub><b>Sheel Sachania</b></sub>
         </a>
     </td>
+
  
     
    
