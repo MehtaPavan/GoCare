@@ -134,6 +134,14 @@ Contributions are always welcome!
             <sub><b>Pritesh Vandra</b></sub>
         </a>
     </td>
+ <td align="center">
+        <a href="https://github.com/MehtaPavan">
+            <img src="https://avatars.githubusercontent.com/u/96176462?v=4" width="100;" alt="Pavan Mehta"/>
+            <br />
+            <sub><b>Pavan Mehta</b></sub>
+        </a>
+    </td>
+ 
     
    
   </tr>
