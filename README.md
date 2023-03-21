@@ -1,3 +1,7 @@
+
+#Flutter Installation
+
+
 # GO CARE
 
 This app is created using flutter technology which is based on healthcare facilities. 
@@ -11,6 +15,30 @@ Next is Nearby Hospital which provides the list & direction of all nearby Hospit
 
 Last is Blog Section which provides different blogs sites for first aid services.
 
+## Folder Structure
+Following tree depicts the folder structure for the `lib` folder.
+ ```
+├── lib
+│   ├── data
+|   |   ├── widget_category.dart     # To display the components card at home screen
+│   ├── screens
+|   |   ├── main_app_widgets        
+|   |   |   ├── components_card.dart
+|   |   ├── about.dart
+|   |   ├── bottom_navigation.dart
+|   |   ├── display.dart
+|   |   ├── home.dart
+|   |   ├── request.dart
+|   |   ├── search.dart
+|   |   ├── splash_screen.dart
+│   ├── ui_components               # Add/update the ui components here
+|   |   ├── alerts
+|   |   ├── avatars
+|   |   ├── bottom_nav
+|   |   ├── ...
+│   ├── main.dart
+```
+---
 
 
 
