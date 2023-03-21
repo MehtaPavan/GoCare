@@ -129,7 +129,6 @@ Contributions are always welcome!
 <tr>
     <td align="center">
         <a href="https://github.com/pritesh2745">
-         
             <img src="https://avatars.githubusercontent.com/u/88341178?v=4" width="100;" alt="Pritesh Vandra"/>
             <br />
             <sub><b>Pritesh Vandra</b></sub>
