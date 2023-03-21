@@ -1,5 +1,6 @@
 
 # Flutter Installation
+
 * [Install Flutter](https://flutter.dev/get-started/)
 * [Flutter documentation](https://docs.flutter.dev/)
 * [Development wiki](https://github.com/flutter/flutter/wiki)
@@ -56,6 +57,7 @@ Next is Nearby Hospital which provides the list & direction of all nearby Hospit
 Last is Blog Section which provides different blogs sites for first aid services.
 
 ## Folder Structure
+
 Following tree depicts the folder structure for the `lib` folder.
  ```
 ├── lib
