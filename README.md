@@ -135,34 +135,7 @@ Contributions are always welcome!
             <sub><b>Pritesh Vandra</b></sub>
         </a>
     </td>
-      <td align="center">
-        <a href="https://github.com/Bhavikk01">
-            <img src="https://avatars.githubusercontent.com/u/91150440?v=4" width="100;" alt="Debajyoti Saha"/>
-            <br />
-            <sub><b>Bhavik Kothari</b></sub>
-        </a>
-    </td>
-  <td align="center">
-        <a href="https://github.com/roshaen">
-            <img src="https://avatars.githubusercontent.com/u/58213083?v=4" width="100;" alt="Roshan Kumar"/>
-            <br />
-            <sub><b>Roshan Kumar</b></sub>
-        </a>
-    </td>
-      <td align="center">
-        <a href="https://github.com/Bhavikk01">
-            <img src="https://avatars.githubusercontent.com/u/91150440?v=4" width="100;" alt="Debajyoti Saha"/>
-            <br />
-            <sub><b>Bhavik Kothari</b></sub>
-        </a>
-    </td>
-  <td align="center">
-        <a href="https://github.com/roshaen">
-            <img src="https://avatars.githubusercontent.com/u/58213083?v=4" width="100;" alt="Roshan Kumar"/>
-            <br />
-            <sub><b>Roshan Kumar</b></sub>
-        </a>
-    </td>
+    
    
   </tr>
 </table>
